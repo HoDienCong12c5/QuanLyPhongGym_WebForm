@@ -24,7 +24,7 @@
                 khẩu từ các thương hiệu hàng đầu Châu Âu và Mỹ, cho đến những lựa chọn yếu phẩm chi tiết từ những thương hiệu uy tín trên thị trường hiện nay như Satori, Sunsilk,...</p>
             </div>
             <div class="th_tin">
-                <p></p>Từ năm 2015 trở đi, hàng loạt phòng tập của <a href="TrangChu.aspx"><u class="mau_TC" style="cursor:pointer" >The Gym</u></a> mang tiêu chuẩn Châu Âu liên tục ra mắt tại TP.HCM, đánh dấu cột mốc cho sự trưởng thành và phát triển bền vững của Tập đoàn.
+                <p></p>Từ  năm 2015 trở đi, hàng loạt phòng tập của <a href="TrangChu.aspx"><u class="mau_TC" style="cursor:pointer" >The Gym</u></a> mang tiêu chuẩn Châu Âu liên tục ra mắt tại TP.HCM, đánh dấu cột mốc cho sự trưởng thành và phát triển bền vững của Tập đoàn.
             </div>
             <div class="anh_cachchu">
                 <img src="image/qc11.png"  />
